@@ -12,6 +12,8 @@ I'm Yamil! a software engineer that lately has been involved in several mobile p
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin" />][linkedin]
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-1DA1F2?style=social&logo=medium" />][medium]
 
+<br/> 
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=yamilmedina&color=blueviolet)
