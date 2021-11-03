@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yamil! A software engineer that in the past years have been involved in a few projects at big scale, from travel (✈️) to delivery (🛒) passing through financial (💸) domains. I love architecture/design and software testing topics.
+I'm Yamil! A software engineer that in the past years have been involved in a few projects at big scale, from travel (✈️) to groceries (🛒) passing through financial (💸) domains. I love architecture/design and software testing topics.
 
 - 🌱  I’m currently polishing my Android skills
 - 👯  I’m looking to collaborate on open source projects
