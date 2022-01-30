@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Yamil! A software engineer that in the past years have been involved in a few projects at big scale, from travel (✈️) to groceries (🛒) passing through financial (💸) domains. I love architecture/design and software testing topics.
+I'm Yamil! A software craftsman that in the past years have been involved in several projects, helping organizations to deliver quality products at different scales. From travel (✈️) to groceries (🛒) also through financial (💸) contexts. I enjoy software design and testing topics.
 
-- 🌱  I’m currently polishing my Android skills
-- 👯  I’m looking to collaborate on open source projects
-- 🦾  Some topics that I can help with: Android, Kotlin, Java, Docker, Spring
+- 🌱  I’m currently polishing my Android development skills
+- 👯  I’m happily open to collaborate on opensource projects
+- 🦾  Some topics, I can help with: Android, Kotlin, Java, Docker, Spring
 
 📫  Reach me out on:
 
