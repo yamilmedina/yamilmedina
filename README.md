@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Yamil! A software craftsman that in the past years have been involved in several projects, helping organizations to deliver quality products at different scales. From travel (✈️) to groceries (🛒) also through financial (💸) contexts. I enjoy software design and testing topics.
+I'm Yamil! A software craftsman that in the past years have been involved in notable projects, helping organizations to deliver quality products at different scales. From travel (✈️) to fintech (💸) and lately messaging (💬) domains. I enjoy software design and testing topics.
 
-- 🌱  I’m currently polishing my Android development skills
-- 👯  I’m happily open to collaborate on opensource projects
-- 🦾  Some topics, I can help with: Android, Kotlin, Java, Docker, Spring
+- 🌱  I’m in a constant search for polishing my Android development skills
+- ✌️  I’m happily open to collaborate on opensource projects
+- 🫱🏽‍🫲  Some topics I can help with: Android, Kotlin, Java, Ktor, Docker, Cloud computing.
+
+![Yamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamilmedina&show_icons=true&theme=gruvbox)
 
 📫  Reach me out on:
 
@@ -16,7 +18,7 @@ I'm Yamil! A software craftsman that in the past years have been involved in sev
 
 ---
 
-![](https://komarev.com/ghpvc/?username=yamilmedina&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=yamilmedina&color=blueviolet&style=for-the-badge)
 
 [twitter]: https://twitter.com/yamilmedina
 [linkedin]: https://www.linkedin.com/in/yamilmedina
