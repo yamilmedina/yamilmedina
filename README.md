@@ -1,28 +1,24 @@
 ### Hi there 👋
 
-I'm Yamil! A software craftsman that in the past years have been involved in notable projects, helping organizations to deliver quality products at different scales. From travel (✈️) to fintech (💸) and lately messaging (💬) domains. I enjoy software design and testing topics.
+I'm Yamil! As a software craftsman, I have been involved in significant projects over the past years, assisting organizations in delivering high-quality products across various scales. My expertise spans from the travel (✈️) and fintech (💸) sectors to more recent involvement in messaging (💬) domains. I have a keen interest in software design and testing topics.
 
-- 🌱  I’m in a constant search for polishing my Android development skills
-- ✌️  I’m happily open to collaborate on opensource projects
-- 🫱🏽‍🫲  Some topics I can help with: Android, Kotlin, Java, Ktor, Docker, Cloud computing.
+- 🌱 I'm continuously seeking to enhance my Android development skills.
+- ✌️ I'm enthusiastic about collaborating on open-source projects.
+- 🫱🏽‍🫲 I have developed during these years expertise in various areas such as Android, Kotlin, Java, Ktor, Quarkus, Docker, CI/CD.
 
-![Yamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamilmedina&show_icons=true&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamilmedina&theme=github_dark)
 
-📫  Reach me out on:
+📫 How to reach me:
 
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter" />][twitter]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin" />][linkedin]
 [<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-1DA1F2?style=social&logo=medium" />][medium]
+[<img align="left" alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=x" />][X]
 
 <br/> 
 
----
-
-![](https://komarev.com/ghpvc/?username=yamilmedina&color=blueviolet&style=for-the-badge)
-
-[twitter]: https://twitter.com/yamilmedina
 [linkedin]: https://www.linkedin.com/in/yamilmedina
 [medium]: https://yamil-medina.medium.com
+[X]: https://twitter.com/yamilmedina
 
 <!--
 **yamilmedina/yamilmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
