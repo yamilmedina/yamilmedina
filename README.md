@@ -1,36 +1,31 @@
-### Hi there 👋
+Hi there! <img src='https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif' alt='Hi' width="20"/> I'm Yamil
 
-I'm Yamil! As a software craftsman, I have been involved in significant projects over the past years, assisting organizations in delivering high-quality products across various scales. My expertise spans from the travel (✈️) and fintech (💸) sectors to more recent involvement in messaging (💬) domains. I have a keen interest in software design and testing topics.
+I'm a passionate **Android & Kotlin developer** (with solid JVM backend roots) who loves building reliable, well-tested mobile and server-side systems. I've shipped features in **travel ✈️**, **fintech 💸**, and **messaging 💬** domains — always prioritizing clean architecture, quality, and great user experiences.
 
-- 🌱 I'm continuously seeking to enhance my Android development skills.
-- ✌️ I'm enthusiastic about collaborating on open-source projects.
-- 🫱🏽‍🫲 I have developed during these years expertise in various areas such as Android, Kotlin, Java, Ktor, Quarkus, Docker, CI/CD.
+Currently deepening my **Kotlin multiplatform/Android** skills and actively looking to contribute to meaningful open-source **Kotlin**/**Android** projects!
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamilmedina&theme=github_dark)
+### 🛠️ Tech Stack
 
-📫 How to reach me:
+![Tech icons](https://skillicons.dev/icons?i=androidstudio,kotlin,java,docker,githubactions,ktor,spring,sqlite)
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-1DA1F2?style=social&logo=linkedin" />][linkedin]
-[<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-1DA1F2?style=social&logo=medium" />][medium]
-[<img align="left" alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=x" />][X]
+**Mobile** — Kotlin, KMP, Android (Jetpack, Compose), Java  
+**Backend** — Kotlin, Javalin, Ktor, Quarkus  
+**Tools & Practices** — Docker, CI/CD, TDD, Clean Architecture, Design Patterns
 
-<br/> 
+### 🌱 Currently Up To
 
-[linkedin]: https://www.linkedin.com/in/yamilmedina
-[medium]: https://yamil-medina.medium.com
-[X]: https://twitter.com/yamilmedina
+- Mastering Kotlin Multiplatform, Jetpack Compose & performance optimization
+- Contributing to open-source (love working on Wire's Android client & Kalium KMP SDK!)
+- Occasionally sharing thoughts on software design & testing → [Medium](https://yamil-medina.medium.com)
 
-<!--
-**yamilmedina/yamilmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Activity
 
-Here are some ideas to get you started:
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamilmedina&theme=zenburn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamilmedina)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://yamil-medina.medium.com)  
+[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://twitter.com/yamilmedina)
+
+Thanks for visiting! 🚀 Feel free to fork, star, open issues, or just drop a hi — especially if you're into **Android**/**Kotlin** open source.
